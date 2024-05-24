@@ -1,0 +1,928 @@
+Uri: https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i&display=swap
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Work+Sans:300,300i,400,400i,700,700i&display=swap
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5pIfd.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5pIfd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5pIfd.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5pIfd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5pIfd.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5pIfd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://uncurvo.odoo.com/
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\index.htm
+Content Type: text/html
+
+Uri: https://uncurvo.odoo.com/buyassociations
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\buyassociations.html
+Content Type: text/html
+
+Uri: https://uncurvo.odoo.com/calendly
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\calendly.html
+Content Type: text/html
+
+Uri: https://uncurvo.odoo.com/our-services
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\our-services.html
+Content Type: text/html
+
+Uri: https://uncurvo.odoo.com/portmoredental
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\portmoredental.html
+Content Type: text/html
+
+Uri: https://uncurvo.odoo.com/projects
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\projects.html
+Content Type: text/html
+
+Uri: https://uncurvo.odoo.com/steenelaw
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\steenelaw.html
+Content Type: text/html
+
+Uri: https://uncurvo.odoo.com/web/assets/1/0b0fd28/web.assets_frontend.min.css
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\assets\1\0b0fd28\web.assets_frontend.min.css
+Content Type: text/css
+
+Uri: https://uncurvo.odoo.com/web/assets/1/f22bd38/web.assets_frontend_minimal.min.js
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\assets\1\f22bd38\web.assets_frontend_minimal.min.js
+Content Type: application/javascript
+
+Uri: https://uncurvo.odoo.com/web/image/378-c2839db2/port.webp
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\378-c2839db2\port.webp
+Content Type: image/webp
+
+Uri: https://uncurvo.odoo.com/web/image/379-0c5c62f3/ervy.webp
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\379-0c5c62f3\ervy.webp
+Content Type: image/webp
+
+Uri: https://uncurvo.odoo.com/web/image/380-34fbccf9/news.webp
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\380-34fbccf9\news.webp
+Content Type: image/webp
+
+Uri: https://uncurvo.odoo.com/web/image/381-42203bfb/buy.webp
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\381-42203bfb\buy.webp
+Content Type: image/webp
+
+Uri: https://uncurvo.odoo.com/web/image/382-f2608428/Uncurvo3-modified.webp
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\382-f2608428\Uncurvo3-modified.webp
+Content Type: image/webp
+
+Uri: https://uncurvo.odoo.com/web/image/416-f4ab3bff/Portmore%2520dental.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\416-f4ab3bff\Portmore%20dental.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/image/420-55fcf3df/Steenelaw.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\420-55fcf3df\Steenelaw.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/image/421-e4ae8577/Buyassociation.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\421-e4ae8577\Buyassociation.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/image/426-30587ab5/port2.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\426-30587ab5\port2.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/image/427-d61aaa4c/port3.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\427-d61aaa4c\port3.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/image/433-49205098/buy4.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\433-49205098\buy4.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/image/434-97962afa/buy3.webp
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\434-97962afa\buy3.webp
+Content Type: image/webp
+
+Uri: https://uncurvo.odoo.com/web/image/436-7aa1a25b/steen2.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\436-7aa1a25b\steen2.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/image/website.s_picture_default_image_bg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\website.s_picture_default_image_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://uncurvo.odoo.com/web/image/website/1/favicon?unique=8cf8b3e
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\website\1\uncurvo.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://uncurvo.odoo.com/web/image/website/1/logo/uncurvo?unique=8cf8b3e
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\image\website\1\logo\uncurvo.webp
+Content Type: image/webp
+
+Uri: https://uncurvo.odoo.com/web/static/fonts/tiktok_only.woff
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\fonts\tiktok_only.woff
+Content Type: font/woff
+
+Uri: https://uncurvo.odoo.com/web/static/fonts/twitter_x_only.woff
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\fonts\twitter_x_only.woff
+Content Type: font/woff
+
+Uri: https://uncurvo.odoo.com/web/static/img/empty_folder.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\empty_folder.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/archive.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\archive.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/audio.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\audio.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/binary.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\binary.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/calendar.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/certificate.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\certificate.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/disk.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\disk.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/document.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\document.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/font.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\font.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/image.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\image.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/javascript.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\javascript.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/pdf.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\pdf.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/presentation.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\presentation.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/print.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\print.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/script.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\script.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/spreadsheet.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\spreadsheet.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/text.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\text.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/unknown.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\unknown.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/vector.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\vector.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/video.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\video.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/web_code.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\web_code.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/mimetypes/web_style.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\mimetypes\web_style.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web/static/img/odoo_logo_tiny.png
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\odoo_logo_tiny.png
+Content Type: image/png
+
+Uri: https://uncurvo.odoo.com/web/static/img/openhand.cur
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\openhand.cur
+Content Type: application/octet-stream
+
+Uri: https://uncurvo.odoo.com/web/static/img/transparent.png
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\img\transparent.png
+Content Type: image/png
+
+Uri: https://uncurvo.odoo.com/web/static/lib/odoo_ui_icons/fonts/odoo_ui_icons.woff
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\lib\odoo_ui_icons\fonts\odoo_ui_icons.woff
+Content Type: font/woff
+
+Uri: https://uncurvo.odoo.com/web/static/lib/odoo_ui_icons/fonts/odoo_ui_icons.woff2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\lib\odoo_ui_icons\fonts\odoo_ui_icons.woff2
+Content Type: font/woff2
+
+Uri: https://uncurvo.odoo.com/web/static/lib/select2/select2-spinner.gif
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\lib\select2\select2-spinner.gif
+Content Type: image/gif
+
+Uri: https://uncurvo.odoo.com/web/static/lib/select2/select2.png
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\lib\select2\select2.png
+Content Type: image/png
+
+Uri: https://uncurvo.odoo.com/web/static/lib/select2/select2x2.png
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\lib\select2\select2x2.png
+Content Type: image/png
+
+Uri: https://uncurvo.odoo.com/web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\src\libs\fontawesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://uncurvo.odoo.com/web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web\static\src\libs\fontawesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://uncurvo.odoo.com/web_editor/image_shape/website.s_image_text_device_perspective/web_editor/devices/iphone_3d_portrait_01.svg?c5=o-color-5
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\image_shape\website.s_image_text_device_perspective\web_editor\devices\iphone_3d_portrait_01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/01.svg?c1=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/02.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\02.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/03.svg?c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\03.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/03_001.svg?c5=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\03_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/04.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\04.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/04_001.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\04_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/05.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\05.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/05_001.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\05_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/06.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\06.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/07.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\07.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/08.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\08.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/09.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\09.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/10.svg?c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\10.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/11.svg?c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\11.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/12.svg?c1=%235ab0d2&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\12.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/12_001.svg?c1=%2344849E&c3=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\12_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/13.svg?c1=%235ab0d2&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\13.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/13_001.svg?c1=%235ab0d2&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\13_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Airy/14.svg?c1=%235ab0d2&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Airy\14.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/01.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/01_001.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\01_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/02.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\02.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/03.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\03.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/04.svg?c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\04.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/05.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\05.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/06.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\06.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/07.svg?c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\07.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/08.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\08.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/09.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\09.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/10.svg?c1=%235ab0d2&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\10.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/10_001.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\10_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/11.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\11.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blobs/12.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blobs\12.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blocks/01.svg?c1=%235ab0d2&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blocks\01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blocks/01_001.svg?c1=%235ab0d2&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blocks\01_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blocks/02.svg?c1=%235ab0d2&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blocks\02.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blocks/02_001.svg?c1=%235ab0d2&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blocks\02_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blocks/03.svg?c1=%235ab0d2&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blocks\03.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Blocks/04.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Blocks\04.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/01.svg?c2=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/02.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\02.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/03.svg?c1=%235ab0d2&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\03.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/04.svg?c2=%23201736&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\04.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/05.svg?c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\05.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/05_001.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\05_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/06.svg?c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\06.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/06_001.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\06_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/07.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\07.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/07_001.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\07_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/08.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\08.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/09.svg?c2=%23201736&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\09.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/10.svg?c1=%235ab0d2&c3=%23E9E8EB&c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\10.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/10_001.svg?c1=%235ab0d2&c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\10_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/11.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\11.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/11_001.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\11_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/12.svg?c1=%235ab0d2&c2=%23201736&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\12.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Bold/12_001.svg?c1=%235ab0d2&c2=%23201736&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Bold\12_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/01.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/02.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\02.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/03.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\03.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/04.svg?c1=%235ab0d2&c2=%23201736&c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\04.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/05.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\05.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/06.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\06.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/07.svg?c1=%2344849E&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\07.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/08.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\08.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/09.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\09.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/10.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\10.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/11.svg?c1=%235ab0d2&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\11.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/12.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\12.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/13.svg?c1=%235ab0d2&c2=%23201736&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\13.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Floats/14.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Floats\14.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/01.svg?c2=%23201736&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/02.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\02.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/02_001.svg?c4=%235ab0d2&c5=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\02_001-1.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/02_001.svg?c4=%23E9E8EB&c5=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\02_001-2.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/02_001.svg?c4=%23FFFFFF&c5=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\02_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/03.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\03.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/04.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\04.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/04_001.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\04_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/05.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\05.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/06.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\06.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/06_001.svg?c3=%23E9E8EB&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\06_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/07.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\07.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/07_001.svg?c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\07_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/07_002.svg?c3=%23E9E8EB&c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\07_002.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/08.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\08.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/09.svg?c1=%235ab0d2&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\09.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/09_001.svg?c3=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\09_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/10.svg?c2=%23201736&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\10.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/11.svg?c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\11.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/11_001.svg?c3=%23E9E8EB&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\11_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/12.svg?c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\12.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/13.svg?c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\13.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/14.svg?c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\14.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/14_001.svg?c3=%23E9E8EB&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\14_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/15.svg?c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\15.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/16.svg?c3=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\16.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/17.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\17.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Origins/18.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Origins\18.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/01.svg?c1=%235ab0d2&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/01_001.svg?c1=%235ab0d2&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\01_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/02.svg?c1=%235ab0d2&c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\02.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/02_001.svg?c1=%235ab0d2&c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\02_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/03.svg?c2=%23201736&c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\03.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/03_001.svg?c2=%23201736&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\03_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/04.svg?c1=%235ab0d2&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\04.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/05.svg?c1=%235ab0d2&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\05.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/05_001.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\05_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/06.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\06.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/07.svg?c1=%235ab0d2&c2=%23201736&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\07.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/08.svg?c1=%235ab0d2&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\08.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/08_001.svg?c1=%235ab0d2&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\08_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/09.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\09.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/09_001.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\09_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Rainy/10.svg?c1=%2344849E&c3=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Rainy\10.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/01.svg?c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/01_001.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\01_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/02.svg?c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\02.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/02_001.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\02_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/03.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\03.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/04.svg?c1=%2344849E&c5=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\04.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/05.svg?c1=%235ab0d2&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\05.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/06.svg?c1=%235ab0d2&c3=%23E9E8EB&c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\06.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/06_001.svg?c1=%235ab0d2&c3=%23E9E8EB&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\06_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/07.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\07.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/08.svg?c2=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\08.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/09.svg?c1=%235ab0d2&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\09.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/10.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\10.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/11.svg?c1=%235ab0d2&c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\11.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/12.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\12.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/12_001.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\12_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/13.svg?c4=%23FFFFFF
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\13.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/13_001.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\13_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/14.svg?c1=%235ab0d2&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\14.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/15.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\15.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/16.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\16.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/17.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\17.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/18.svg?c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\18.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/19.svg?c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\19.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/20.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\20.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/21.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\21.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/22.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\22.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/23.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\23.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/24.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\24.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/25.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\25.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/26.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\26.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/27.svg?c1=%235ab0d2&c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\27.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Wavy/28.svg?c1=%235ab0d2&c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Wavy\28.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Zigs/01.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Zigs\01.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Zigs/01_001.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Zigs\01_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Zigs/02.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Zigs\02.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Zigs/02_001.svg?c2=%23201736
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Zigs\02_001.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Zigs/03.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Zigs\03.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Zigs/04.svg?c1=%235ab0d2
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Zigs\04.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Zigs/05.svg?c3=%23E9E8EB
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Zigs\05.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/shape/web_editor/Zigs/06.svg?c4=%23FFFFFF&c5=%2344849E
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\shape\web_editor\Zigs\06.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_editor/static/src/img/curved_arrow.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_editor\static\src\img\curved_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://uncurvo.odoo.com/web_enterprise/static/img/background-light.svg
+File Name: C:\Downloaded Web Sites\uncurvo.odoo.com\web_enterprise\static\img\background-light.svg
+Content Type: image/svg+xml
+
